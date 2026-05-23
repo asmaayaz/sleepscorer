@@ -1,0 +1,8 @@
+{
+  "epochs_scored": 120,
+  "ml_accuracy": 1.0,
+  "ml_macro_f1": 1.0,
+  "llm_parse_rate": 1.0,
+  "n_agent_overrides": 3,
+  "elapsed_seconds": 32.9
+}

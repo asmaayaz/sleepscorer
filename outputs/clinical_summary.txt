@@ -1,0 +1,16 @@
+SLEEP ARCHITECTURE SUMMARY (120 epochs / ~60 minutes analyzed)
+============================================================
+  Wake :  21 epochs ( 17.5% observed vs  5% normative) [HIGH]
+  N1   :  10 epochs (  8.3% observed vs  5% normative)
+  N2   :  51 epochs ( 42.5% observed vs 45% normative)
+  N3   :  15 epochs ( 12.5% observed vs 15% normative)
+  REM  :  23 epochs ( 19.2% observed vs 25% normative)
+
+Sleep Continuity: 83 stage transitions (fragmentation index = 0.692)
+Most frequent: N2→Wake (11x), REM→N2 (9x), Wake→N2 (9x)
+UNUSUAL TRANSITIONS: REM→N3, N3→REM. Clinical review recommended.
+
+Deviations from normative baseline:
+  Wake is elevated by 12.5% (17.5% vs 5% normative)
+
+Agent Review: 3 epochs (2.5%) overridden from base LLM. All overrides grounded in feature values per AASM rules.
